@@ -65,7 +65,7 @@ th, td{
  }
  @media(max-width: 450px) {
    .biz{
-      width: 400px;
+      width: 380px;
       min-height: 800px ;
    }
    table{
@@ -76,8 +76,8 @@ th, td{
         background-color: aqua;
     }
     .foto{
-    width: 2800px;
-    height: 300px;
+    width: 280px;
+    height: 310px;
     border: 2px solid #ccc;
  }
  }
