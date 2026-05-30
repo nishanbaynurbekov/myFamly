@@ -65,11 +65,11 @@ th, td{
  }
  @media(max-width: 450px) {
    .biz{
-      width: 380px;
+      width: 350px;
       min-height: 800px ;
    }
    table{
-    width: 370px;
+    width: 330px;
     min-height: 600px;
    }
     th, td{
