@@ -8,7 +8,8 @@ import jarkynImg from '../assets/jarkyn.jpg'
 import munarImg from '../assets/munar.jpg'
 import nurayImg from '../assets/nuray.jpg'
 import video from '../assets/video.mp4'
-
+import shax from '../assets/shax.jpg'
+import mat from '../assets/mat.jpg'
 
 export const nurbek = [
 {
@@ -99,6 +100,7 @@ export const nurbek = [
     jash: "Мектеп окуучусу",
     kun: "6-ноябрь",
     img: jarkynImg,
+    image: shax,
      mektep: {
        azyr: "окуп атат",
        abal:  "алдыңкы окуучулардан",
@@ -112,6 +114,7 @@ export const nurbek = [
     jash: "Мектеп окуучусу",
     kun: "28-декабрь",
     img: munarImg,
+    image: mat,
      mektep: {
        azyr: "окуп атат",
        abal:  "алдыңкы окуучулардан",
