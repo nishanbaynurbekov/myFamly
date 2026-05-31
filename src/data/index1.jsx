@@ -1,4 +1,4 @@
-
+import atamImg from '../assets/atam.jpg'
 import apamImg from '../assets/apam.jpg'
 import semImg from '../assets/sem.jpg'
 import avazImg from '../assets/avaz.jpg'
@@ -19,6 +19,7 @@ export const nurbek = [
     kim: "ата",
     jash: "Евро уста",
     kun: "1-декабрь",
+    img: atamImg,
      mektep: {
        azyr: "окуп бүткөн",
        abal:  "азыркы бештен мурунку үч артык",
