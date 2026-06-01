@@ -1,8 +1,8 @@
  .biz{
     border: 5px solid black;
-    width: 800px;
-    min-height: 400px;
-    padding: 15px;
+    width: 100%;
+    max-width: 1200px;
+    padding: 0 20px;
     margin: 0 auto;
 
  }
@@ -14,6 +14,7 @@ table{
     width: 100%;
     border-collapse: collapse;
     margin: 0 auto;
+    padding: 0 20px;
 } 
 th, td{
     border: 2px solid black;
@@ -63,17 +64,22 @@ th, td{
    font-weight: 600;
    margin-top: 20px;
  }
- @media(max-width: 450px) {
+ @media(max-width: 768px) {
    .biz{
       width: 350px;
       min-height: 800px ;
+      font-size: 16px;
    }
    table{
-    width: 330px;
+    width: 300px;
     min-height: 600px;
+    flex-direction: column;
+    margin: 0 20px 0 20px;
+    margin: 0 auto;
    }
     th, td{
         background-color: aqua;
+      font-size: 14px;
     }
     .foto{
     width: 280px;
